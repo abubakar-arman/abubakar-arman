@@ -114,6 +114,17 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **Contest Forge** | A full-stack contest platform for building, managing, and participating in online contests  | React, Node, MongoDB | [Demo](https://contest-forge.web.app/) |
+| **MovieMaster Pro** | Movie Discovery & Management Platform | REACT.js, Firebase | [Demo](https://moviemaster-pro-111222.web.app/) |
+
+</div>
+
 ---
 
 ## 📈 Contribution Activity
